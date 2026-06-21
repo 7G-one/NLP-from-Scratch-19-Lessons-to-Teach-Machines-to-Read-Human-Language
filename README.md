@@ -1,5 +1,7 @@
 # 🧠 自然语言处理原理与实战
 
+<h3 align="center"><a href="README.md">中文</a> | <a href="README_en.md">English</a></h3>
+
 > 让机器读懂人话，从零开始的 NLP 之旅
 
 ## 这是什么？
